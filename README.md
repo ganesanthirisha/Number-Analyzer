@@ -1,4 +1,3 @@
-# Number-Analyzer
 # Number Analyzer (Java)
 
 A simple Java program that analyzes a number and checks:
